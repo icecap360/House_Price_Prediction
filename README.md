@@ -3,7 +3,7 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 
 Contest link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-## Final Position: 1483/4636 ≈ 32nd Percentile
+## Final Rank: 1483/4636 ≈ 32nd Percentile
 
 ![alt text](https://github.com/icecap360/House_Price_Prediction/blob/master/Results.png?raw=true)
 
